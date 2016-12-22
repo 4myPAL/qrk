@@ -9,14 +9,13 @@ QRK ist ideal für alle Dienstleistungsunternehmen, die bislang mit Honorarnoten
 
 Schnittstelle für Fibu und Rechnungsprogramme vorhanden. (Zb. Fakturama)
 
-QRK Registrier Kasse Web Site
-Categories
-Financial, Billing, Sales
-License
+QRK Registrier Kasse Web Site: http://www.ckvsoft.at/
+
 GNU Library or Lesser General Public License version 3.0 (LGPLv3)
+
 Features
 
-    Registrierkasse
+ Registrierkasse
     Für Österreichisches Gesetz RKV (Austrian Law) geeignet
     Steuersätze für AT, CH, DE
     AES 256 verschlüsselter Umsatzzähler

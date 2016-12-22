@@ -15,7 +15,7 @@ GNU Library or Lesser General Public License version 3.0 (LGPLv3)
 
 Features
 
- Registrierkasse
+    Registrierkasse  
     Für Österreichisches Gesetz RKV (Austrian Law) geeignet
     Steuersätze für AT, CH, DE
     AES 256 verschlüsselter Umsatzzähler
